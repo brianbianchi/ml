@@ -1,5 +1,3 @@
-## Machine learning research
+# ml
 
-![object detection](docs/yolo.gif)
-
-![face swap](docs/face_swap.png)
+Machine learning research that's designed to be reproducible.
