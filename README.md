@@ -1,7 +1,5 @@
 ## Machine learning research
 
-![object detection](docs/labeled.gif)
-
-![object detection example 2](docs/labeled2.gif)
+![object detection](docs/yolo.gif)
 
 ![face swap](docs/face_swap.png)
