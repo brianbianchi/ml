@@ -1,6 +1,4 @@
-/data
+/models
 .ipynb_checkpoints
 *.onnx
 *.pt
-*.mp4
-*.jpg
